@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IMAD example practicum</string>
+    <string name="name">SCREEN SMART</string>
+    <string name="textView">Tristan Hoskins</string>
+    <string name="textView2">ST10443365</string>
+    <string name="button1">Main Screen</string>
+    <string name="button2">Exit App</string>
+    <string name="textView3">insert the date:</string>
+    <string name="textView5">insert morning screen time:</string>
+    <string name="textView4">insert afternoon screen time:</string>
+    <string name="textView6">activity notes:</string>
+    <string name="editTextDate">date</string>
+    <string name="editTextNumber1">mins</string>
+    <string name="editTextNumber2">mins</string>
+    <string name="editText1">notes</string>
+    <string name="button3">add data</string>
+    <string name="button4">view summary</string>
+    <string name="button">clear</string>
+    <string name="button5">main page</string>
+    <string name="tableLayout">table</string>
+</resources>
