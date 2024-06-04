@@ -9,8 +9,8 @@
 
     <TableLayout
         android:id="@+id/tableLayout"
-        android:layout_width="360dp"
-        android:layout_height="484dp"
+        android:layout_width="400dp"
+        android:layout_height="536dp"
         android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -49,9 +49,11 @@
 
     <TextView
         android:id="@+id/textView8"
-        android:layout_width="354dp"
-        android:layout_height="479dp"
+        android:layout_width="395dp"
+        android:layout_height="533dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="29dp"
-        tools:layout_editor_absoluteY="80dp" />
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="61dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
