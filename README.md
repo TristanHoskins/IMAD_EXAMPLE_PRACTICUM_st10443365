@@ -13,3 +13,5 @@ repeat the process from step 8 with more data
 then click on the view summary button to take user to the next screen
 in the summarry screen clcik the clear data button to clear the tables data
 click go back button to take user back to the previous page and add new data 
+
+POWERPOINT PRESENTATION LINK: https://advtechonline-my.sharepoint.com/:p:/g/personal/st10443365_vcconnect_edu_za/EcWBfxUQZIlMqCgZwZbk8h0BLwhRGo4by75gyj19zhdSPw?e=qFpfYv
